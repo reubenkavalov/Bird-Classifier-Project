@@ -17,7 +17,7 @@ After training a couple vanilla classifier models(decision tree, bagged tree, ra
 
 ## Handling Imbalanced Classes with SMOTE
 
-![Class Imbalance](classimbalance.png)
+![Class Imbalance](images/classimbalance.png)
 As you can tell from the image above, there is a heavy class imbalance among the data. In order to counter this, I employ SMOTE(Synthetic Minority Over-sampling Technique), creating fake datapoints to fill out the smaller classes.
 
 ## Random Forest

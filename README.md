@@ -39,7 +39,7 @@ Once again including the Bag of Words as a feature to this SVC model(after using
 ***The following are additional methods that were attempted but did not provide results as favorable as the model above.***
 
 
-## Boosting methods
+## Boosted methods
 
 AdaBoost and XGBoost came close, with XGBoost yielding ~70% accuracy. The model however proved useful in showing different feature importances(the most predictive feature, in this case, being an "all-purpose" beak): 
 ![Feature Importances](images/featureimportances.png)
